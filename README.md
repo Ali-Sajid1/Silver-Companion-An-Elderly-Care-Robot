@@ -172,14 +172,14 @@ D.Blue: Audio
 
 _**Step 0:**_
 
-1. Learn ROS Basics (Link to ROS Basics)
+1. Learn ROS Basics (https://drive.google.com/drive/folders/1y7Py9Ga5A90boky8_vE4ajJmdcy-uvBy)
 
-2. Learn Jetson Nano Basics (Link to Jetson Nano Basics)
+2. Learn Jetson Nano Basics (https://www.youtube.com/watch?v=5INy0FvaWLw)
 
 
 _**Step 1:**_
 
-1. Install ROS Melodic (ROS Melodic Installation)
+1. Install ROS Melodic (https://wiki.ros.org/melodic/Installation/Ubuntu)
 
 2. Create a new workspace directory
 
@@ -188,15 +188,15 @@ _**Step 1:**_
 
 _**Step 2:**_
 
-1. Install Turtlebot2 package (Tutorial for Installing Turtlebot2 Package)
+1. Install Turtlebot2 package (https://www.youtube.com/watch?v=rniyH8dY5t4)
 
 2. Run catkin_make (may encounter cmake error regarding opencv – image_geometry issue)
 
-3. Correct the opencv – image_geometry issue (Fix for opencv – image_geometry issue)
+3. Correct the opencv – image_geometry issue (https://jstar0525.tistory.com/306)
 
 4. Run catkin_make (may encounter cmake error regarding opencv – cv_bridge issue)
 
-5. Correct the opencv – cv_bridge issue (Fix for opencv – cv_bridge issue)
+5. Correct the opencv – cv_bridge issue (https://jstar0525.tistory.com/118)
 
 6. Run catkin_make (may encounter cmake error regarding turtlebot_kobuki joystick)
 
@@ -205,13 +205,13 @@ _**Step 2:**_
 
 _**Step 3:**_ 
 
-Make ROS Melodic use Python3 for code execution (Instructions for using Python3 with ROS Melodic) including #!/usr/bin/env python
+Make ROS Melodic use Python3 for code execution (https://gist.github.com/azidanit/9950aa5408acdbe25f0ec431654da8d6) including #!/usr/bin/env python
 
 
 **D.2. Starting with Kobuki with ROS Melodic**
 
 
-Learn Turtlebot on ROS: Refer to the TurtleBot learning platform for comprehensive tutorials and resources: Learn TurtleBot on ROS
+Learn Turtlebot on ROS: Refer to the TurtleBot learning platform for comprehensive tutorials and resources: https://learn.turtlebot.com/
 
 
 _**SSH Setup for PC:**_
