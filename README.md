@@ -285,6 +285,3 @@ _**On Turtlebot:**_
 _**On PC:**_
 
 1. Launch RViz for visualization: roslaunch turtlebot_rviz_launchers view_navigation.launch --screen
-
-
-**Note: You can find more information on the project in the thesis document attached in this repository.**
